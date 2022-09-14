@@ -1,0 +1,38 @@
+.hader{
+color:white;
+background-color: red;
+font-size: 40px;
+font-style: italic;
+
+}
+.button{
+  text-align: center;
+}
+.laptoplist{
+  color:rgb(12, 12, 12);
+  font-style: italic;
+  font-size:medium;
+  background-color: rgb(60, 255, 0);
+
+}
+.userlist{
+  background-color: rgb(255, 0, 8);
+  text-align: left;
+}
+.label{
+  color: #00ff15;
+  font-style: italic;
+  font-weight: bolder;
+}
+.label01{
+  color: rgb(255, 0, 0);
+}
+.footer{
+color:rgb(17, 0, 255);
+background-color:rgb(225, 255, 0);
+font-size: xx-large;
+font-style: italic;
+outline-color: aliceblue;
+border: dotted;
+
+}
